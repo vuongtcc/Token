@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M-Token</string>
+    <string name="server_url">https://thetratruoc.vn/</string>
+    <string name="tutorial">Hướng dẫn</string>
+    <string name="header">DANH SÁCH TOKEN</string>
+    <string name="token_edit">Sửa</string>
+    <string name="token_delete">Xóa</string>
+    <string name="token_serial">Serial</string>
+    <string name="dialog_submit">Đăng nhập</string>
+    <string name="dialog_cancel">Hủy</string>
+    <string name="dialog_email">Email</string>
+    <string name="dialog_title_login">Đăng nhập</string>
+    <string name="copy_right">©2013 TheTraTruoc.vn</string>
+    <string name="err_1">Lỗi, không xóa được Token</string>
+    <string name="err_2">Hệ thống đang nâng cấp</string>
+    <string name="err_3">Mất kết nối tới TheTraTruoc.vn</string>
+    <string name="err_4">Sai Email hoặc Mật khẩu</string>
+    <string name="err_5">Mất kết nối Internet</string>
+    <string name="err_6">Lỗi, không sửa được tên Token</string>
+    <string name="err_7">Tên Token không được để trống</string>
+    <string name="err_8">Sai Email hoặc Mật khẩu</string>
+    <string name="succ_1">Xóa Token thành công</string>
+    <string name="succ_2">Sửa tên Token thành công</string>
+    <string name="succ_3">Tạo Token thành công</string>
+    <string name="tutorial_step">Ứng dụng M-Token là một tiện ích để mua thẻ an toàn bằng Tiền tài khoản trên website
+        TheTraTruoc.vn. Để tạo và kích hoạt một Token Quý khách thực hiện tuần tự như sau
+    </string>
+    <string name="r_1">1.Đăng ký một tài khoản trên website TheTraTruoc.vn (nếu chưa có tài khoản)</string>
+    <string name="r_2">2.Mở ứng dụng M-Token (máy cần kết nối internet qua Wi-Fi hoặc 3G)
+    </string>
+    <string name="r_3">3.Click +Tạo Token mới trên Ứng dụng</string>
+    <string name="r_4">4.Đăng nhập bằng tài khoản đã có ở mục 1. Xong mục 4, ứng dụng đã tạo một Token mới nhưng chưa
+        được kích hoạt. Mỗi Token có một số Serial duy nhất, để xem số Serial của Token vừa tạo click Menu và chọn mục
+        Serial.
+    </string>
+    <string name="r_5">5.Để kích hoạt Token, Quý khách gửi thư tới
+        support@thetratruoc.vn với tiêu đề Yêu cầu kích hoạt Token, nội dung thư ghi Kích hoạt Token để thanh toán
+        bằng Số dư tài khoản trên TheTraTruoc.vn có email là địa chỉ email đã tạo ở mục 1), số Serial của Token cần kích
+        hoạt, cùng ảnh chụp Chứng minh thư
+        mặt trước mặt sau đính kèm trong thư.
+    </string>
+    <string name="r_6">6.Thư yêu cầu của Quý khách sẽ được thực hiện và phản hồi chậm nhất sau 24H (từ khi Quý khách
+        gửi thư). Cần hỗ trợ thêm xin gửi thư về hòm mail support@thetratruoc.vn. Cảm ơn Quý khách đã sử dụng dịch vụ
+        của TheTraTruoc.vn
+    </string>
+    <string name="title_pin_create">Tạo mật khẩu</string>
+    <string name="dialog_pin">Mật khẩu</string>
+    <string name="dialog_re_pin">Nhập lại mật khẩu</string>
+    <string name="pin_invalid">Sai mật khẩu</string>
+    <string name="pin_not_match">Nhập lại mật khẩu không khớp</string>
+    <string name="dialog_confirm">Đồng ý</string>
+    <string name="title_pin">Mở ứng dụng</string>
+    <string name="alert_block_app">Dữ liệu ứng dụng có thể bị xóa khi đăng nhập sai 5 lần</string>
+    <string name="alert_block_final">Toàn bộ dữ liêu của ứng dụng sẽ bị xóa khi tiếp tục đăng nhập sai</string>
+    <string name="alert_data_deleted">Đã xóa dữ liệu của ứng dụng</string>
+    <string name="alert_app_error">Không khởi tạo được ứng dụng</string>
+    <string name="change_pin">Đổi mật khẩu</string>
+    <string name="txt_old_pin">Mật khẩu cũ</string>
+    <string name="txt_new_pin">Mật khẩu mới</string>
+    <string name="txt_re_new_pin">Nhập lại mật khẩu mới</string>
+    <string name="alert_old_pin_invalid">Sai mật khẩu cũ</string>
+    <string name="change_pin_succ">Đổi mật khẩu thành công</string>
+    <string name="alert_pin_length">Mật khẩu dài tối thiểu 4 ký tự</string>
+</resources>

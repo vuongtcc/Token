@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="android:Theme.DeviceDefault">
+        <!--<style name="AppTheme" parent="android:Theme.Holo.Light.DialogWhenLarge">-->
+    </style>
+    <style name="DialogTheme" parent="android:Theme.DeviceDefault.Dialog">
+        <!--<style name="AppTheme" parent="android:Theme.Holo.Light.DialogWhenLarge">-->
+    </style>
+</resources>

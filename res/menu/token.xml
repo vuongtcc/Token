@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/token_serial"
+            android:title="@string/token_serial"/>
+    <item
+            android:id="@+id/token_edit"
+            android:title="@string/token_edit"/>
+    <item
+            android:id="@+id/token_delete"
+            android:title="@string/token_delete"/>
+
+</menu>
